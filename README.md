@@ -6,4 +6,6 @@ como as páginas são feitas, os blogs entre outros me fascina, mas nos tempos a
 por debaixo dos panos, como que os nossos dados são cadastrados em um banco de dados, ou como a minha mensagem chega ao outro, como que isso acontece?</strong></h1><br>
 <h1><strong>Foi quando pesquisei, e descobri que toda essa parte que pega nossos dados depois da interativdade com a página se chama Back-End, nós podemos usar diferentes ferramentas
 pra rodar e renderizar as páginas da web pelo nosso computador doméstico como se fosse um simples servidor atráves de um comando específico, 
-posso dizer que me sinto como um hacker dos filmes</strong></h1>
+posso dizer que me sinto como um hacker dos filmes.</strong></h1><br>
+<h1><strong>Hoje em dia eu estudo cibersegurança, faço faculdade de análise e desenvolvimento de sistemas, e também reforço minhas práticas com os códigos,
+espero um dia eu conseguir um emprego magnífico, que possa mudar minha história e a de todos a minha volta.</strong></h1>
