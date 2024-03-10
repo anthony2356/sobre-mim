@@ -11,7 +11,7 @@ posso dizer que me sinto como um hacker dos filmes.</strong></h1>
 espero um dia eu conseguir um emprego magnífico, que possa mudar minha história e a de todos a minha volta.</strong></h1>
 <br><br>
 <h1><strong>Linguagens de programação</strong></h1>
-<div style=width: 2x;>
+<div style=font-size: 5px;>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
