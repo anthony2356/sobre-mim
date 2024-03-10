@@ -9,6 +9,3 @@ pra rodar e renderizar as páginas da web pelo nosso computador doméstico como 
 posso dizer que me sinto como um hacker dos filmes.</strong></h1>
 <h1><strong>Hoje em dia eu estudo cibersegurança, faço faculdade de análise e desenvolvimento de sistemas, e também reforço minhas práticas com os códigos,
 espero um dia eu conseguir um emprego magnífico, que possa mudar minha história e a de todos a minha volta.</strong></h1>
-<br><br>
-<h1 style="text-slign:center;"><strong>Linguagens de programação</strong></h1>
-<a href="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
