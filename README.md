@@ -1,5 +1,5 @@
-<h1><strong>Olá me chamo Anthony :D</strong></h1><br>
-<h1><strong>Minha história</strong></h1>
+<h1 style="text-slign:center;"><strong>Olá me chamo Anthony :D</strong></h1><br>
+<h1 style="text-slign:center;"><strong>Minha história</strong></h1>
 <h1><strong>Iniciei meus estudos e práticas com a programação ainda no meio do ensino médio, por volta dos meus 15 anos, hoje já tenho 19 anos, posso
 dizer que foram 4 anos de estudos, análise e planejamentos sobre qual carreira seguir nesse universo, foi quando me apaixonei por Front-End, ver
 como as páginas são feitas, os blogs entre outros me fascina, mas nos tempos atuais, eu pretendo saber como que todos esses sites funcionam
@@ -10,7 +10,7 @@ posso dizer que me sinto como um hacker dos filmes.</strong></h1>
 <h1><strong>Hoje em dia eu estudo cibersegurança, faço faculdade de análise e desenvolvimento de sistemas, e também reforço minhas práticas com os códigos,
 espero um dia eu conseguir um emprego magnífico, que possa mudar minha história e a de todos a minha volta.</strong></h1>
 <br><br>
-<h1><strong>Linguagens de programação</strong></h1>
+<h1 style="text-slign:center;"><strong>Linguagens de programação</strong></h1>
 <img style="font-size: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" />
 <img style="font-size: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <img style="font-size: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
